@@ -35,6 +35,7 @@ Parts:
 
 
 Screenshots:
+<img width="1448" height="819" alt="Screenshot 2026-10-03 203721" src="https://github.com/user-attachments/assets/b7c62f48-21cc-49e2-91e0-216e23c5c433" />
 
 
 
