@@ -1,5 +1,4 @@
-<img width="746" height="489" alt="Screenshot 2026-10-03 204419" src="https://github.com/user-attachments/assets/bcdbd2ee-0ce6-4f10-993b-799b1859e4f1" />
-# RetroPad
+RetroPad
 
 My 1st Hackpad!
 
